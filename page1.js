@@ -23,18 +23,6 @@ console.log('virat and anushka  are hsband wife')
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 console.log('anjali is dr by brpoffession')
 
 console.log('she 1st time meet sachine when she was 25')
